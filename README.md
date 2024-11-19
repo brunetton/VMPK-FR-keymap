@@ -4,4 +4,4 @@ This is a French keymap (azerty) for [Virtual MIDI Piano Keyboard](https://githu
 
 ## Howto use
 
-Download `FR-VMPK-keymap.xml` and open it in VMPK (Edit -> Keyboard map)
+Download [`FR-VMPK-keymap.xml`](https://github.com/brunetton/VMPK-FR-keymap/blob/main/FR-VMPK-keymap.xml) and open it in VMPK (Edit -> Keyboard map)
