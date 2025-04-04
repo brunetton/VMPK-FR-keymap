@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 French keymap (azerty) for VMPK.
 AUTHOR: Bruno Duyé
 https://github.com/brunetton/VMPK-FR-keymap
 -->
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboardmap>
 <keyboardmap version="1.0">
     <mapping key="&lt;" note="35"/>
